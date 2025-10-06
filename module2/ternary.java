@@ -19,3 +19,4 @@ public class ternary {
         System.out.println("im hungryyyy");
     }
 }
+//comment added
